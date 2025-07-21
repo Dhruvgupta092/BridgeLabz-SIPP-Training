@@ -52,10 +52,10 @@ This repository contains all the assignments, exercises, and practice programs c
 ---
 
 ## 📌 Assignments and File Links
-- [Core Java Programs](./Core_Java) *(Last Updated: Last Month)*
-- [OOPs Concepts](./OOPs) *(Last Updated: 3 Weeks Ago)*
-- [DSA Assignments](./DSA) *(Last Updated: Last Week)*
-- [Workshop Files](./Workshop) *(Last Updated: 3 Weeks Ago)*
+- [Core Java Programs](https://github.com/Dhruvgupta092/BridgeLabz-SIPP-Training/tree/Core_Java/Core_Java)
+- [OOPs Concepts](https://github.com/Dhruvgupta092/BridgeLabz-SIPP-Training/tree/OOPs) *(Last Updated: 3 Weeks Ago)*
+- [DSA Assignments]([./DSA](https://github.com/Dhruvgupta092/BridgeLabz-SIPP-Training/tree/DSA)) *(Last Updated: Last Week)*
+  
 
 ---
 

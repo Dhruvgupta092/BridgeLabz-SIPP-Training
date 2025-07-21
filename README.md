@@ -21,8 +21,6 @@ This repository contains all the assignments, exercises, and practice programs c
   Covers **Data Structures and Algorithms** including Linked Lists, Stacks, Queues, HashMap, Sorting, Searching, and Time Complexity.  
   **Latest Update:** Searching Algorithm Practice Problems (Last Week)
 
-- **Workshop** *(Updated: 3 Weeks Ago)*  
-  Contains **workshop exercises** and practical coding challenges from BridgeLabz sessions.
 
 ---
 
